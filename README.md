@@ -28,3 +28,25 @@ Final analytical dataset contains **850,000+ records**.
 5. A/B testing for promotional effectiveness
 
 ---
+## Repository Structure
+notebooks/    
+├── 01_data_cleaning.ipynb  
+├── 02_exploratory_analysis.ipynb   
+├── 03_statistical_analysis.ipynb   
+└── 04_ab_testing.ipynb   
+
+---
+
+## Tools & Technologies
+- Python (Pandas, NumPy)
+- Statistical Analysis (SciPy, Statsmodels)
+- Visualization (Matplotlib, Seaborn)
+- Jupyter Notebook
+
+---
+
+## Notes
+Raw datasets are not included due to size and privacy considerations.
+
+
+
