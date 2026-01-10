@@ -48,5 +48,47 @@ notebooks/
 ## Notes
 Raw datasets are not included due to size and privacy considerations.
 
+## Notebook-wise Analysis Summary
 
+### 01_data_cleaning.ipynb — Data Cleaning & Integration
+- Cleaned four raw datasets (customer, product, transaction, session)
+- Handled missing values, incorrect data types, and duplicate records
+- Standardized columns and merged datasets into a unified analytical table
+- Produced a final clean dataset with over 850,000 records for analysis
 
+****If you want to see the details , Please check the notebook****
+---
+
+### 02_exploratory_analysis.ipynb — Exploratory Data Analysis (EDA)
+- Analyzed overall revenue and sales distribution
+- Explored customer behavior including repeat purchases and engagement
+- Evaluated product and category-level performance
+- Identified temporal trends across days, weeks, and months
+
+ ****If you want to see the details , Please check the notebook****
+
+---
+
+### 03_statistical_analysis.ipynb — Statistical Analysis & Inference
+- Conducted hypothesis testing on customer and promotion groups
+- Analyzed correlations between engagement metrics and revenue
+- Compared group-level differences using statistical significance
+- Interpreted results in a business decision-making context
+
+****If you want to see the details , Please check the notebook****
+
+---
+
+### 04_ab_testing.ipynb — A/B Testing on Promotions
+- Designed control and treatment groups for promotional analysis
+- Tested the impact of promotions on revenue and engagement
+- Applied statistical tests to evaluate experiment outcomes
+- Derived actionable conclusions based on test results  
+
+****If you want to see the details , Please check the notebook****
+
+# Next Phase: Machine Learning & Deep Learning (Planned)
+
+This project will be extended with predictive and advanced modeling techniques to move from
+descriptive and inferential analytics toward decision automation.  
+# Thank you
