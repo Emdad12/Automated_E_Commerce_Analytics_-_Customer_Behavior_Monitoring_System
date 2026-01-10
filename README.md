@@ -1,17 +1,24 @@
-# Automated_E_Commerce_Analytics-Customer_Behavior_Monitoring_System
-# End-to-End E-commerce Data Analysis (Python)
+# Automated E-Commerce Analytics – Customer Behavior Monitoring System
 
-## Overview
-This project demonstrates an end-to-end e-commerce data analysis workflow using Python.
-Multiple raw datasets were cleaned, merged, and analyzed to extract business and statistical insights.
+## Project Overview
+This project demonstrates an end-to-end e-commerce data analytics workflow using Python.
+Multiple raw datasets were cleaned, integrated, and analyzed to understand customer behavior,
+revenue patterns, and promotional effectiveness.
+
+The project focuses on **data quality, statistical analysis, and experimentation**, following
+industry-style analytics practices.
+
+---
 
 ## Datasets Used
-- Customer data
-- Product catalog data
-- Transaction-level sales data
-- User session and clickstream data
+- Customer dataset (demographics, device, location)
+- Product dataset (category, seasonality, attributes)
+- Transaction dataset (orders, pricing, revenue)
+- Session & clickstream dataset (user engagement)
 
-The final analytical dataset contains over **850,000 records**.
+Final analytical dataset contains **850,000+ records**.
+
+---
 
 ## Project Workflow
 1. Data cleaning and preprocessing of raw datasets
@@ -20,10 +27,4 @@ The final analytical dataset contains over **850,000 records**.
 4. Statistical analysis and hypothesis testing
 5. A/B testing for promotional effectiveness
 
-## Tools & Technologies
-- Python (Pandas, NumPy)
-- Statistical Analysis (SciPy, Statsmodels)
-- Visualization (Matplotlib, Seaborn)
-- Jupyter Notebook
-
-## Repository Structure
+---
