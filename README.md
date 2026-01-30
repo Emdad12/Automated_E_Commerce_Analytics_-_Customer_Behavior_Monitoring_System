@@ -1,5 +1,4 @@
-# Automated E-Commerce Analytics – Customer Behavior Monitoring System
-
+# Large Scale E-Commerce Data Engineering & Statistical Analytics (Python)
 ## Project Overview
 This project demonstrates an end-to-end e-commerce data analytics workflow using Python.
 Multiple raw datasets were cleaned, integrated, and analyzed to understand customer behavior,
